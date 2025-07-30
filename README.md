@@ -1,9 +1,18 @@
 # AutoGen Agent Workflow Demo
 
-> 📋 **完整实验报告请查看**: [`agent-architecture.md`](./agent- architecture.md)
-
 > 🤖 **对话驱动的生产级多Agent协作系统**  
 > 基于AutoGen框架，集成OpenTelemetry可观测性和多层安全机制
+
+## 📋 实验报告
+
+📄 **完整的实验报告请查看：[agent-architecture.md](agent-architecture.md)**
+
+该实验报告包含：
+- 🔬 **完整的技术实验过程和结果分析**
+- 📊 **基于94条trace记录的数据分析**
+- 🏗️ **四种Agent架构的深度对比**
+- 🛠️ **生产级系统的实现细节**
+- 📈 **性能指标和安全防护效果评估**
 
 ## ✨ 核心特性
 
