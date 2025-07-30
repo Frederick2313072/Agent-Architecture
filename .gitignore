@@ -1,0 +1,45 @@
+# 环境变量文件 - 包含敏感信息，不应提交
+.env
+
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志文件
+*.log
+logs/
+
+# 输出文件
+results.json
+*.csv
+*.xlsx
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# Phoenix 数据
+phoenix/
+
+# 测试覆盖率
+.coverage
+htmlcov/ 
